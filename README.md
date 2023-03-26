@@ -2,7 +2,7 @@
 
 # **Cost Volume Pyramid Based Depth Inference for Multi-View Stereo**
 
-In this blog post, I will review the paper [Cost Volume Pyramid Based Depth Inference for Multi-View Stereo](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.html) from Jiayu Yang et al. published in CVPR 2020. After introducing the topic and relevant background knowledge, I will explain the method in my own words. Then we will discuss the results and future works.
+In this blog post, I will review the paper [Cost Volume Pyramid Based Depth Inference for Multi-View Stereo](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.html) from Jiayu Yang et al. published in CVPR 2020. After introducing the topic and relevant background knowledge, I will explain the method in my own words. Then we will discuss the results and future works. You can also download [my presentation slides of the paper](PaperPresentation.pptx) and view the slides locally by powerpoint.
 
 
 # Introduction
